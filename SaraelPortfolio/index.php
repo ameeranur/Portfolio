@@ -11,7 +11,9 @@
 
     <div class="hero">
         <nav>
-            <img src="images/logo.png" alt="logo" class="logo" width="167" height="69">
+            <a href="index2.php">
+                 <img src="images/logo.png" alt="logo" class="logo" width="167" height="69">
+            </a>            
             <ul>
                 <li><a href="#">HOME</a></li>
                 <li><a href="intro.php">ABOUT</a></li>
